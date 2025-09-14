@@ -1,0 +1,57 @@
+PS C:\Users\Usuario\Desktop\School\Full 2\Prueba 1> git init
+Initialized empty Git repository in C:/Users/Usuario/Desktop/School/Full 2/Prueba 1/.git/
+PS C:\Users\Usuario\Desktop\School\Full 2\Prueba 1> git add .
+PS C:\Users\Usuario\Desktop\School\Full 2\Prueba 1> git commit -m "Finally :D"
+[master (root-commit) 0ed8011] Finally :D
+ 37 files changed, 1618 insertions(+)
+ create mode 100644 .vscode/settings.json
+ create mode 100644 Admin/css/estilos.css
+ create mode 100644 Admin/home-ad.html
+ create mode 100644 Admin/js/productos.js
+ create mode 100644 Admin/js/usuario.js
+ create mode 100644 Admin/productos-ad.html
+ create mode 100644 Admin/usuarios.html
+ create mode 100644 Tienda/Img/Brownie Sin Gluten.png
+ create mode 100644 Tienda/Img/Cheesecake Sin Azucar.png
+ create mode 100644 Tienda/Img/Empanada de Manzana.png
+ create mode 100644 Tienda/Img/Galletas Veganas de Avena.png
+ create mode 100644 Tienda/Img/Mousse de Chocolate.png
+ create mode 100644 Tienda/Img/Pan Sin Gluten.png
+ create mode 100644 Tienda/Img/Tarta de Santiago.png
+ create mode 100644 Tienda/Img/Tiramisu Clasico.png
+ create mode 100644 Tienda/Img/Torta Circular de Manjar.png
+ create mode 100644 Tienda/Img/Torta Circular de Vainilla.png
+ create mode 100644 Tienda/Img/Torta Cuadrada de Chocolate.png
+ create mode 100644 Tienda/Img/Torta Cuadrada de Frutas.png
+ create mode 100644 Tienda/Img/Torta Especial de Boda.png
+ create mode 100644 Tienda/Img/Torta Especial de Cumpleanos.png
+ create mode 100644 Tienda/Img/Torta Sin Azucar de Naranja.png
+ create mode 100644 Tienda/Img/Torta Vegana de Chocolate.png
+ create mode 100644 Tienda/Img/iconPasteleria.png
+ create mode 100644 Tienda/carrito.html
+ create mode 100644 Tienda/contacto.html
+ create mode 100644 Tienda/css/carrito.css
+ create mode 100644 Tienda/css/estilos.css
+ create mode 100644 Tienda/css/ventanas.css
+ create mode 100644 Tienda/inicio.html
+ create mode 100644 Tienda/js/filtro-productos.js
+ create mode 100644 Tienda/js/productos-carrito-filtro.js
+ create mode 100644 Tienda/js/ventanas.js
+ create mode 100644 Tienda/login.html
+ create mode 100644 Tienda/nosotros.html
+ create mode 100644 Tienda/productos.html
+ create mode 100644 acceso-admin.html
+PS C:\Users\Usuario\Desktop\School\Full 2\Prueba 1> git branch -M main
+PS C:\Users\Usuario\Desktop\School\Full 2\Prueba 1> git remote add origin https://github.com/GVQ-uwu/Prueba1-Fullstack.git
+PS C:\Users\Usuario\Desktop\School\Full 2\Prueba 1> git push -u origin main
+Enumerating objects: 47, done.
+Counting objects: 100% (47/47), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (44/44), done.
+Writing objects: 100% (47/47), 62.81 MiB | 1.07 MiB/s, done.
+Total 47 (delta 3), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (3/3), done.
+To https://github.com/GVQ-uwu/Prueba1-Fullstack.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+PS C:\Users\Usuario\Desktop\School\Full 2\Prueba 1> 
